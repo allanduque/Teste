@@ -1,0 +1,14 @@
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\bin\Debug\netcoreapp3.1\Desafio_Paradigma.exe
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\bin\Debug\netcoreapp3.1\Desafio_Paradigma.deps.json
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\bin\Debug\netcoreapp3.1\Desafio_Paradigma.runtimeconfig.json
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\bin\Debug\netcoreapp3.1\Desafio_Paradigma.runtimeconfig.dev.json
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\bin\Debug\netcoreapp3.1\Desafio_Paradigma.dll
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\bin\Debug\netcoreapp3.1\Desafio_Paradigma.pdb
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\obj\Debug\netcoreapp3.1\Desafio_Paradigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\obj\Debug\netcoreapp3.1\Desafio_Paradigma.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\obj\Debug\netcoreapp3.1\Desafio_Paradigma.AssemblyInfo.cs
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\obj\Debug\netcoreapp3.1\Desafio_Paradigma.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\obj\Debug\netcoreapp3.1\Desafio_Paradigma.dll
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\obj\Debug\netcoreapp3.1\Desafio_Paradigma.pdb
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\obj\Debug\netcoreapp3.1\Desafio_Paradigma.genruntimeconfig.cache
+C:\Users\allan\source\repos\Desafio_Paradigma\Desafio_Paradigma\obj\Debug\netcoreapp3.1\Desafio_Paradigma.csproj.AssemblyReference.cache
